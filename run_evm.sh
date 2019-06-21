@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# wrapper script to help me remember the arguments for the `evm` tool
 set -Eeuxo pipefail
 # mint() 1249c58b
 # foo() c2985578
